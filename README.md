@@ -33,7 +33,7 @@ External components required:
 - A ~20mm M3 screw, used for the pivot. If you already have a lever, you can take the screw from that.
 
 ## TypeCTriggerPlate
-Replace rear connector "plate" designed to take a USB Type-C PD Trigger module. Will need internal rewiring and soldering.
+Replacement rear connector "plate" designed to take a USB Type-C PD Trigger module. Will need internal rewiring and soldering.
 
 This has two pieces, as two boolean operations in the FreeCAD file. The intersection piece is the outer plate, while the subtraction piece provides a backing to prevent the Type-C connector from sliding inside.
 
